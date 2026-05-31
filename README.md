@@ -1,6 +1,6 @@
 # Hi, I'm Shashwath Shankar 👋
 
-### Software Engineer focused on scalable systems, intelligent applications, and high-performance web platforms.
+### Building scalable systems, intelligent applications, and data-driven platforms.
 
 Building enterprise software, analytics platforms, and cloud-native applications with a strong foundation in software engineering, system design, and data-driven problem solving.
 
@@ -11,15 +11,14 @@ Building enterprise software, analytics platforms, and cloud-native applications
 * 🔭 Building full-stack and cloud-native applications
 * 🌱 Exploring AI systems, analytics platforms, and scalable architectures
 * ⚡ Interested in distributed systems, product engineering, and intelligent software
-* 🇯🇵 JLPT N5 & N4 Certified
-* 🏆 BNMIT Prodathon 2026 – 1st Place
-* 📄 Published research paper: *Interactive Web Analytics and Insights* (ICEMSI 2026)
 
 ---
 
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/shashwath-shankar-8a3322332)
+
+🌐 GitHub: https://github.com/Shashwath1234
 
 📧 [shashwathshankar23098@gmail.com](mailto:shashwathshankar23098@gmail.com)
 
@@ -70,7 +69,7 @@ Git • GitHub • Docker • Postman • UiPath
 
 ## 📌 Featured Projects
 
-### Machine Intelligence ERP
+### Mexo Manufacturing Intelligence Suite
 
 React • TypeScript • Bun • Hono • PostgreSQL
 
@@ -114,4 +113,4 @@ Research-focused project exploring latent diffusion models for 3D object generat
 
 ---
 
-### “Building software that turns complexity into clarity.”
+Building products at the intersection of software engineering, analytics, and intelligent systems.
