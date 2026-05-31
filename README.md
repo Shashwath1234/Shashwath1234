@@ -1,21 +1,117 @@
-# 💫 About Me:
-🔭 Building full-stack and cloud-native applications<br><br>🌱 Exploring AI systems, analytics platforms, and scalable architectures<br><br>⚡ Interested in distributed systems, product engineering, and intelligent software<br><br> 🇯🇵   JLPT N5 & N4 Certified
+# Hi, I'm Shashwath Shankar 👋
 
+### Software Engineer focused on scalable systems, intelligent applications, and high-performance web platforms.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shashwath Shankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashwath23098@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shashwath1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shashwath1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shashwath1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shashwath1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Building enterprise software, analytics platforms, and cloud-native applications with a strong foundation in software engineering, system design, and data-driven problem solving.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shashwath1234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🔭 Building full-stack and cloud-native applications
+* 🌱 Exploring AI systems, analytics platforms, and scalable architectures
+* ⚡ Interested in distributed systems, product engineering, and intelligent software
+* 🇯🇵 JLPT N5 & N4 Certified
+* 🏆 BNMIT Prodathon 2026 – 1st Place
+* 📄 Published research paper: *Interactive Web Analytics and Insights* (ICEMSI 2026)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shashwath-shankar-8a3322332)
+
+📧 [shashwathshankar23098@gmail.com](mailto:shashwathshankar23098@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+Python • Java • C++ • JavaScript • TypeScript • SQL
+
+### Frontend
+
+React • Next.js • TanStack Router • ShadCN • Tailwind CSS
+
+### Backend
+
+Node.js • Flask • Hono
+
+### Cloud & Databases
+
+AWS Lambda • DynamoDB • S3 • Cognito • PostgreSQL
+
+### AI & Data
+
+PyTorch • Scikit-Learn • Pandas • NumPy
+
+### Tools
+
+Git • GitHub • Docker • Postman • UiPath
+
+---
+
+## 💼 Experience
+
+### Software Development Intern — Telibrahma Software Services LLP
+
+* Developed features for Mexo Manufacturing Intelligence Suite (ERP)
+* Built Cycle Time and Spindle Efficiency modules
+* Improved API performance and telemetry processing pipelines
+
+### Frontend Developer Intern — OptM Media Solutions
+
+* Building scalable web applications using React, TypeScript, and Next.js
+* Developing reusable component systems and modern frontend architecture
+
+---
+
+## 📌 Featured Projects
+
+### Machine Intelligence ERP
+
+React • TypeScript • Bun • Hono • PostgreSQL
+
+Enterprise manufacturing intelligence platform for monitoring shop-floor operations and machine performance.
+
+### Funnel Analytics Platform
+
+Next.js • PostgreSQL • ClickHouse
+
+Built high-throughput analytics workflows for conversion tracking and user behavior insights.
+
+### AWS Task Management System
+
+AWS Lambda • DynamoDB • Cognito • SES • S3
+
+Serverless task management platform with authentication, notifications, and file handling.
+
+### Text-to-3D Generation
+
+PyTorch • Open3D • Blender
+
+Research-focused project exploring latent diffusion models for 3D object generation.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shashwath1234\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shashwath1234\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwath1234\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+
+* 🥇 BNMIT Prodathon 2026 – 1st Place
+* 📄 ICEMSI 2026 Research Publication
+* 🇯🇵 JLPT N5 & N4 Certified
+
+---
+
+### “Building software that turns complexity into clarity.”
